@@ -1,4 +1,4 @@
-# react-country
+# React country
 
 A react component that filters the list of countries
 
